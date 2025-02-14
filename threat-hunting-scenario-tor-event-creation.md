@@ -74,7 +74,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Dhanyal Farid
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: https://www.linkedin.com/in/dhanyal-df017959/
 - **Date**: Feburary 3, 2025
 
 ## Validated By:
